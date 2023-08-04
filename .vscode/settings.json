@@ -1,0 +1,7 @@
+{
+    "editor.formatOnType": true,
+    "python.analysis.extraPaths": [
+        "./ml/scripts"
+    ],
+    "python.linting.enabled": false
+}
